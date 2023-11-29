@@ -1,0 +1,8 @@
+C:\Users\yusuf\OneDrive\Desktop\Programmierung\C#\stack\stack\bin\Debug\stack.exe.config
+C:\Users\yusuf\OneDrive\Desktop\Programmierung\C#\stack\stack\bin\Debug\stack.exe
+C:\Users\yusuf\OneDrive\Desktop\Programmierung\C#\stack\stack\bin\Debug\stack.pdb
+C:\Users\yusuf\OneDrive\Desktop\Programmierung\C#\stack\stack\obj\Debug\stack.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Desktop\Programmierung\C#\stack\stack\obj\Debug\stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\OneDrive\Desktop\Programmierung\C#\stack\stack\obj\Debug\stack.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Desktop\Programmierung\C#\stack\stack\obj\Debug\stack.exe
+C:\Users\yusuf\OneDrive\Desktop\Programmierung\C#\stack\stack\obj\Debug\stack.pdb
